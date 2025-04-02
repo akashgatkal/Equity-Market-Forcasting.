@@ -1,5 +1,5 @@
 #
-![alt tag]([https://github.com/ganeshborkar31/Equity_Market/blob/main/screenshots/Screenshot%20from%202024-05-30%2012-15-46.png](https://github.com/akashgatkal/Equity-Market-Forcasting./blob/main/screenshots/Screenshot%20from%202024-05-30%2012-15-46.png))
+![alt tag](https://github.com/akashgatkal/Equity-Market-Forcasting./blob/main/screenshots/Screenshot%20from%202024-05-30%2012-15-46.png)
 ![alt tag](https://github.com/ganeshborkar31/Equity_Market/blob/main/screenshots/Screenshot%20from%202024-05-30%2012-16-24.png)
 ![alt tag](https://github.com/ganeshborkar31/Equity_Market/blob/main/screenshots/Screenshot%20from%202024-05-30%2012-17-18.png)
 ![alt tag](https://github.com/ganeshborkar31/Equity_Market/blob/main/screenshots/Screenshot%20from%202024-05-30%2012-18-15.png)
